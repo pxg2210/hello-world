@@ -1,2 +1,3 @@
 # hello-world
-Just another respository
+Hello, 
+I am Pragna, an artist, basketball player, and a writer. 
